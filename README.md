@@ -1,2 +1,30 @@
 # consulting-note-template-v2
-Templates for consulting meeting notes and issue management.
+
+# Consulting Note Template
+
+コンサルティング業務で使える、議事録・論点整理・課題管理のMarkdownテンプレート集です。
+
+## 目的
+
+会議後の情報整理を速くし、論点・決定事項・宿題を抜け漏れなく記録することを目的としています。
+
+## 含まれるテンプレート
+
+- 議事録テンプレート
+- 論点整理テンプレート
+- 課題管理テンプレート
+
+## 使い方
+
+`templates/meeting_note.md` をコピーして、会議ごとに編集してください。
+
+## 想定利用者
+
+- コンサルタント
+- プロジェクトマネージャー
+- 業務改革担当者
+- 会議の記録を整理したい人
+
+## License
+
+MIT License
